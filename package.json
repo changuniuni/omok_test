@@ -1,0 +1,26 @@
+{
+  "name": "chat_room_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changuniuni/omok_chat.git"
+  },
+  "keywords": [
+    "chatting"
+  ],
+  "author": "ChangHyeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changuniuni/omok_chat/issues"
+  },
+  "homepage": "https://github.com/changuniuni/omok_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
